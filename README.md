@@ -3,7 +3,7 @@ This is a solution to the Code First Girls first session. Course Introduction to
 
 # Links
 
-- Live Site URL: [Live Site at Vercel](link)
+- Live Site URL: ([Live Site at Vercel](https://cfg-firstsession.vercel.app/))
 
 # Built with
 
