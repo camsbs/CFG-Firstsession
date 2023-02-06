@@ -13,5 +13,5 @@ This is a solution to the Code First Girls first session. Course Introduction to
 - Responsive Design
 
 # Useful resources
-Flexbox CSS ([link](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)) 
+Flexbox CSS: ([Css tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)) 
 
