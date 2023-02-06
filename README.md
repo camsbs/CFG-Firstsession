@@ -1,4 +1,4 @@
-# Code First Girl - First Session Solution
+# Code First Girls - First Session Solution
 This is a solution to the Code First Girls first session. Course Introduction to the Web Development.
 
 # Links
